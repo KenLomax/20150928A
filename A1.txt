@@ -13,3 +13,5 @@ Modifying this in Feature 1 on B
 
 
 MOdifying in B
+
+Modifying from without SourceTree
